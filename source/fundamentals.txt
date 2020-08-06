@@ -4,6 +4,4 @@ Fundamentals
 
 .. default-domain:: mongodb
 
-.. toctree::
-
-   /fundamentals/connection
+Lorem ipsum

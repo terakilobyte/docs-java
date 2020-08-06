@@ -1,6 +1,5 @@
 name = "java"
 title = "Java"
-toc_landing_pages = ["/fundamentals/connection"]
 
 [constants]
 version = 4.0
